@@ -2,7 +2,7 @@ url: https://sekafa.github.io
 baseurl: 
 
 # Site settings
-title: SMK DARUL FALAH
+title: sekafa
 email: smkdarulfalah13@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Jl. Mangga No. 01
+  - line: Ds. Sukorejo Kec. Sukorejo Kab. Ponorogo 63453
 
 # Build settings
 markdown: kramdown
